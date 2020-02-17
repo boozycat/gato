@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 First Sample - I did this
 Here is some more (this is from test) stuff
-this is from the master
+ 
+First Version
+Second version
+ 
